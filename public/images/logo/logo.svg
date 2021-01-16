@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="76.692" height="90.096" viewBox="0 0 76.692 90.096">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.588" y1="0.007" x2="0.385" y2="0.983" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7a2af6"/>
+      <stop offset="1" stop-color="#a51dff"/>
+    </linearGradient>
+  </defs>
+  <g id="Groupe_457" data-name="Groupe 457" transform="translate(-16.829 -18.452)">
+    <g id="Groupe_454" data-name="Groupe 454">
+      <path id="Tracé_1489" data-name="Tracé 1489" d="M93.521,57.217a39.044,39.044,0,0,1-2.482,13.748c-5.488,14.622-31.383,37.583-35.864,37.583-4.8,0-30.55-23.089-35.966-37.855a39.07,39.07,0,0,1-2.38-13.476,38.348,38.348,0,1,1,76.692,0Z" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Groupe_455" data-name="Groupe 455">
+      <path id="Tracé_1490" data-name="Tracé 1490" d="M69.735,73.706a21.947,21.947,0,1,1-.19-33.516" fill="none"/>
+      <path id="Tracé_1491" data-name="Tracé 1491" d="M55.468,83.7A26.668,26.668,0,1,1,72.575,36.569a4.721,4.721,0,0,1-6.059,7.241,17.227,17.227,0,1,0,.15,26.31,4.72,4.72,0,0,1,6.14,7.171A26.67,26.67,0,0,1,55.468,83.7Z" fill="#fff"/>
+    </g>
+    <g id="Groupe_456" data-name="Groupe 456">
+      <circle id="Ellipse_615" data-name="Ellipse 615" cx="6.706" cy="6.706" r="6.706" transform="translate(69.998 49.883)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

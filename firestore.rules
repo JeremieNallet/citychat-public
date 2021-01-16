@@ -1,0 +1,28 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+  	match /users/{doc} {
+    	match /positions/{doc} {
+          allow read;
+          allow create;
+          allow delete;
+      }
+    }
+    match /chat/{doc} {
+    	match /messages/{doc} {
+          allow read;
+          allow create;   
+      }
+    }
+     match /notifications/{doc} {
+    	match /waves/{doc} {
+          allow read;
+          allow create;
+          allow delete;
+      }
+    }
+  }
+}
+
+
+//firebase deploy --only firestore:rules
